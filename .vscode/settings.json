@@ -1,7 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "Disabled",
-    "terminal.integrated.env.osx": {
-        "PATH": "/Users/vlapa/.platformio/penv/bin:/Users/vlapa/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/usr/local/CrossPack-AVR/bin",
-        "PLATFORMIO_CALLER": "vscode"
-    }
-}
